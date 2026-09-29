@@ -75,6 +75,4 @@ On a Windows PC with Python and Tesseract installed, double-click `build_exe.bat
 | `build_exe.bat` | Builds the exe and bundles Tesseract |
 | `requirements.txt` | Python dependencies |
 
-## License
 
-Add a license of your choice. Tesseract is distributed under the Apache 2.0 license, so include its license file when you share the bundled `Tesseract-OCR` folder.
