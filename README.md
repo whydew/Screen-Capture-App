@@ -1,6 +1,6 @@
 # Screen Capture to PDF
 
-A small Windows app that screenshots a monitor or app window, presses a key to move to the next page, and repeats until you press Esc. When you stop, it can combine the screenshots into a single PDF with searchable OCR text.
+A small Windows app that screenshots a monitor or app window, presses a key to move to the next page, and repeats until you press Esc. When you stop, it can combine the screenshots into a single PDF with searchable OCR text. I made this as a vitalsource bookshelf scrapper, but it has other uses.  
 
 It's built for capturing documents that you can only page through on screen, such as reports, statements, e-books, or slide viewers that don't offer an export.
 
